@@ -226,7 +226,7 @@ ul.breadcrumb li+li:before {
     .ten.columns,
     .eleven.columns,
     .tweleve.columns {
-        width: 100%
+        width: 100%;
     }
     .column,
         .columns {
